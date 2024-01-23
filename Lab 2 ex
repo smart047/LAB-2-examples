@@ -1,0 +1,6 @@
+,Bill,Joe,Frank,Sam,Nick
+Bill,0,1,0,0,0
+Joe,1,0,1,0,0
+Frank,0,1,0,1,1
+Sam,0,0,1,0,1
+Nick,0,0,1,1,0
